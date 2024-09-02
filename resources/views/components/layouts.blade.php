@@ -113,6 +113,7 @@
         </header>
 
         <main class="bg-white p-6 rounded-lg shadow-lg">
+            <p class="text-gray-500 text-sm mt-4">- Francis Caraang</p>
             {{ $slot }}
         </main>
     </div>
